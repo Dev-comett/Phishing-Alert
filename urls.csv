@@ -1,0 +1,11 @@
+url,label
+http://google.com,0
+https://facebook.com,0
+http://192.168.1.1/malicious,1
+http://malicious-site.biz/login,1
+http://paypal-login.com@phishingsite.com,1
+http://safe-site.org/home,0
+https://secure.amazon.com,0
+http://fakebank.com.login.verifyaccount.ru,1
+http://192.168.0.99/bad,1
+https://github.com,0
